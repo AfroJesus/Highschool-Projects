@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ipod()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ipod\r\n
+comment1.params=
+comment1.target=void\ info()
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=boolean\ pause()
+comment4.params=
+comment4.target=void\ skip()
+comment5.params=
+comment5.target=void\ replay()
+comment6.params=
+comment6.target=void\ changeSong()
+comment7.params=
+comment7.target=void\ volume()
+comment8.params=
+comment8.target=boolean\ power()
+numComments=9
