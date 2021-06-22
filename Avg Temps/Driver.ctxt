@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=names\ mean\ low\ place
+comment1.target=void\ printData(java.lang.String[],\ java.lang.Double[],\ java.lang.Double[],\ java.lang.Integer[])
+comment2.params=dataSet
+comment2.target=void\ printData(Driver.DataSet)
+comment3.params=names\ mean\ low\ place
+comment3.target=Driver.DataSet\ sortData(java.lang.String[],\ java.lang.Double[],\ java.lang.Double[],\ java.lang.Integer[])
+comment4.params=mean
+comment4.target=double\ calculateSD(java.lang.Double[])
+comment5.params=mean
+comment5.target=double\ calculateAvg(java.lang.Double[])
+comment6.params=names\ mean\ low\ place\ outputFile
+comment6.target=void\ filterStates(java.lang.String[],\ java.lang.Double[],\ java.lang.Double[],\ java.lang.Integer[],\ java.io.PrintWriter)
+numComments=7
