@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TwoDimensional
+comment0.text=\r\n\ This\ class\ fills\ up\ a\ 2D\ array\ and\ calculates\ the\ values\ for\ each\ row\ and\ column.\ Each\ value\ is\ stored\ in\ another\ array\ where\r\n\ it\ is\ added\ again\ to\ recieve\ the\ total\ value\ of\ the\ array.\ Finally\ all\ arrays\ are\ outputted\ to\ the\ screen.\r\n\ \r\n\ Cole\ Dennis\r\n\ 3/1/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=int\ addArray(int[])
+numComments=3
