@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=poker()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ poker\r\n
+comment1.params=hand
+comment1.target=void\ getCard(java.util.ArrayList)
+comment2.params=hand
+comment2.target=void\ printHand(java.util.ArrayList)
+comment3.params=hand
+comment3.target=int\ addHand(java.util.ArrayList)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
