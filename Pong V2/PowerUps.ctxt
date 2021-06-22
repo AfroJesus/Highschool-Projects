@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PowerUps
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PowerUps\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ball\ SCREEN_WIDTH\ SCREEN_HEIGHT
+comment1.target=PowerUps(Ball[],\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PowerUps\r\n
+comment2.params=
+comment2.target=java.awt.Rectangle\ getBounds()
+comment3.params=SCREEN_WIDTH\ SCREEN_HEIGHT\ ball
+comment3.target=void\ spawnPowerUp(int,\ int,\ Ball)
+comment4.params=ball\ balls\ SCREEN_WIDTH\ SCREEN_HEIGHT
+comment4.target=void\ activate(Ball,\ Ball[],\ int,\ int)
+comment5.params=ID\ balls
+comment5.target=void\ deactivate(int,\ Ball[])
+comment6.params=balls\ SCREEN_WIDTH\ SCREEN_HEIGHT
+comment6.target=void\ speedBall(Ball[],\ int,\ int)
+comment7.params=balls
+comment7.target=void\ multiBall(Ball[])
+comment8.params=
+comment8.target=void\ slowBall()
+comment9.params=g\ size
+comment9.target=void\ draw(java.awt.Graphics,\ int)
+numComments=10
